@@ -157,7 +157,7 @@ export default function Home() {
                 Follow us on Facebook
               </h2>
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/sabrhajjumrahservices"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-4 inline-flex items-center gap-2 text-secondary-300 hover:text-secondary-200"
@@ -182,7 +182,7 @@ export default function Home() {
                 Watch us on YouTube
               </h2>
               <a
-                href="https://youtube.com"
+                href="https://www.youtube.com/@sabr_tn2024"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="mt-4 inline-flex items-center gap-2 text-secondary-300 hover:text-secondary-200"
